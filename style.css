@@ -1,0 +1,36 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color:beige
+
+}
+
+h1 {
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.container {
+
+margin: 0px;
+background-color: rgb(206, 52, 52);
+text-align: center;
+width: 100%;
+border-radius: 50px;
+
+}
+
+.container h1{
+background-color: red;
+border-radius: 50px;
+
+
+}
+
+.container img{
+
+background-color: rgb(173, 82, 82);
+
+
+
+}
